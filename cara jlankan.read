@@ -1,0 +1,7 @@
+ketika mau jalankan script node js salin 
+npm install dayjs express multer fluent-ffmpeg ffmpeg-static
+lalu jalankan npm start
+
+kalau node tidak bisa di restart atau stop ketik pada terminal 
+ps aux | grep node
+lalu kill PID nya

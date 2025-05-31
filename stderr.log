@@ -1,0 +1,2573 @@
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+RangeError [ERR_OUT_OF_RANGE]: The value of "start" is out of range. It must be an integer. Received NaN
+    at new ReadStream (node:internal/fs/streams:196:5)
+    at Object.createReadStream (node:fs:2916:10)
+    at /home/sugandii/video.mrsoe.my.id/app.js:605:19
+    at Layer.handle [as handle_request] (/home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/sugandii/nodevenv/video.mrsoe.my.id/16/lib/node_modules/express/lib/router/index.js:376:14)
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'fluent-ffmpeg'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'express-rate-limit'
+Require stack:
+- /home/sugandii/video.mrsoe.my.id/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/sugandii/video.mrsoe.my.id/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/sugandii/video.mrsoe.my.id/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:543
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:589
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:589
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:589
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:589
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:589
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/sugandii/video.mrsoe.my.id/app.js:589
+});
+^
+
+SyntaxError: Missing catch or finally after try
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)

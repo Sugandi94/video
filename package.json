@@ -1,0 +1,27 @@
+{
+  "name": "powerful-video-uploader",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js app for uploading, searching, streaming, and managing videos with a JSON-based database.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "video",
+    "uploader",
+    "nodejs",
+    "express",
+    "json",
+    "streaming",
+    "multer"
+  ],
+  "author": "Sugandi94 & GitHub Copilot",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
